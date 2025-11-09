@@ -1,5 +1,7 @@
 # Deterministic Voice Intelligence
 
+[Project Demo]([url](https://youtu.be/gT9ATiyjeeo))  
+
 A tap-to-talk voice assistant that transcribes speech with Whisper, rewrites it with Meta’s Llama 3.3 70B via OpenRouter, routes intent through LangGraph tools (search, calculator, notes), and replies with ElevenLabs TTS.
 
 <img width="1466" height="833" alt="image" src="https://github.com/user-attachments/assets/181e0879-e3f1-4655-aa16-bda40040892f" />
